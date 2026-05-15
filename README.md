@@ -52,15 +52,15 @@
 
 ## 📂 Projects
 
-* Student Management System
-* Math Calculator Program
+* Student Management System(terminal with cpp)
+* Math Calculator Program(some basis operation)
 * Database Relation Exercises
 * Linux System Call Practice
 * Online Shopping application(Java)
 * Online Shopping(Phone,tablet,laptop) - only frontend
 * CIA (encrypt hashing ,...)
-* Recipe Management System
-* Hotel Management System
+* Recipe Management System(full-stack)
+* Hotel Management System(full-stack)
   
 ---
 
